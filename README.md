@@ -1,2 +1,0 @@
-# Arbolbina
-Arbol_binario
